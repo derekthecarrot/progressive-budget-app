@@ -3,6 +3,9 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
+import fetch from "node-fetch"
+globalThis.fetch = fetch
+
 const PORT = process.env.PORT || 3000;
 
 const app = express();
