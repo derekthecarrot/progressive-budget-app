@@ -22,7 +22,7 @@ In order to use this application, you can subtract - add - and track your funds 
 ![My Website](/public/assets/images/screenshot.PNG)
 
 Deployed Application:
-https://radiant-fortress-06332.herokuapp.com/
+https://hidden-earth-94634.herokuapp.com/
 
 
 ## License
